@@ -4,7 +4,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é Caike Henry Firmino Felipe, tenho 17 anos e sou de São Paulo. Concluí o ensino médio no SESI, com o curso técnico do SENAI em Desenvolvimento de Sistemas.
+resumo meu aqui
 
 <p align="left">
     <a href="https://github.com/CaikeHenry007?tab=repositories&sort=stargazers">
@@ -27,71 +27,80 @@ Meu nome é Caike Henry Firmino Felipe, tenho 17 anos e sou de São Paulo. Concl
 
 ### 💻Línguagens e Tecnologias
 
+<table align="center">
+<tr>
+<td align="center" width="96" >
 <img 
-    align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    width="57" 
+    src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif" 
 />
+</td>
+
+<td align="center" width="96" >
 <img 
-    align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    width="57" 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3OWQyZWI0MWU1YjM4Zjk3OTI0NTU5NDEyMWU5OTc3N2E5NWYxZiZjdD1z/fsEaZldNC8A1PJ3mwp/giphy.gif" 
 />
+</td>
+
+<td align="center" width="96" >
 <img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    width="67" 
+    src="https://techstack-generator.vercel.app/js-icon.svg" 
 />
+</td>
+
+<td align="center" width="96" >
 <img 
-    align="left" 
     alt="React-Native" 
     title="React-Native"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-          
+    width="57" 
+    src="https://techstack-generator.vercel.app/react-icon.svg" />
+</td>    
+</tr>
+
+<tr>
+<td align="center" width="96" >   
 <img 
-    align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="57" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+</td>
 
+<td align="center" width="96" > 
 <img 
-    align="left" 
     alt="MySql" 
     title="MySql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+    width="57" 
+    src="https://techstack-generator.vercel.app/mysql-icon.svg" />
+</td>
 
+<td align="center" width="96" > 
 <img 
-    align="left" 
     alt="Firebase" 
     title="Firebase"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="57" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
-    
+</td>
+
+<td align="center" width="96" >    
  <img  
-    align="left" 
     alt="NodeJs" 
     title="NodeJs"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-        
+    width="57" 
+    src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" />
+</td>
+</tr>
+</table>        
+
 <br>
 <br>
 
@@ -115,5 +124,5 @@ Meu nome é Caike Henry Firmino Felipe, tenho 17 anos e sou de São Paulo. Concl
 
 </p>
           
-          
+
 
