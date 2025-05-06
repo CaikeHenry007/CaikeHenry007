@@ -62,7 +62,16 @@ Meu nome é Caike Henry Firmino Felipe, tenho 18 anos e sou de Nova Odessa - SP.
     title="React-Native"
     width="57" 
     src="https://techstack-generator.vercel.app/react-icon.svg" />
-</td>    
+</td> 
+
+<td align="center" width="96" >   
+<img 
+    alt="Git" 
+    title="Git"
+    width="57" 
+    src="https://techstack-generator.vercel.app/cpp-icon.svg" 
+/>
+</td>
 </tr>
 
 <tr>
@@ -97,6 +106,14 @@ Meu nome é Caike Henry Firmino Felipe, tenho 18 anos e sou de Nova Odessa - SP.
     title="NodeJs"
     width="57" 
     src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" />
+</td>
+
+<td align="center" width="96" >    
+ <img  
+    alt="NodeJs" 
+    title="NodeJs"
+    width="57" 
+    src="https://techstack-generator.vercel.app/prettier-icon.svg" />
 </td>
 </tr>
 </table>        
