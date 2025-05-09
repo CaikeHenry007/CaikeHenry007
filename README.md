@@ -34,7 +34,7 @@ Meu nome é Caike Henry Firmino Felipe, tenho 18 anos e sou de Nova Odessa - SP.
     alt="HTML"
     title="HTML" 
     width="57" 
-    src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif" 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJieXA4c20wYmJhYWtvOW02MHcxM2VkZW9qOWt0MjBmeml4NmxyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" 
 />
 </td>
 
