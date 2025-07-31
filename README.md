@@ -123,26 +123,28 @@ Meu nome é Caike Henry Firmino Felipe, tenho 18 anos e sou de Nova Odessa - SP.
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CaikeHenry007&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=CaikeHenry007&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
+        alt="Estatísticas do GitHub" 
+        width="450"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaikeHenry007&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=4" 
+        alt="Linguagens mais usadas" 
+        width="400"
+      />
+    </td>
+  </tr>
+</table>
+</div>
 
-  <br>
-  <br>
 
-<img 
-      align="center" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaikeHenry007&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=4" 
-  />
-
-</p>
           
 
 
