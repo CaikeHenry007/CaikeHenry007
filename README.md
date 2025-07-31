@@ -4,7 +4,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é Caike Henry Firmino Felipe, tenho 18 anos e sou de Nova Odessa - SP. Concluí o ensino médio no SESI, com o curso técnico do SENAI em Desenvolvimento de Sistemas, e agora estou cursando um curso superior de Tecnólogo de Análise e Desenvolvimento de Sitemas no IFSP - Campus Hortolândia. Me apaixonei pela área e estou sempre buscando mais conhecimento para evoluir como programador.
+Meu nome é Caike Henry Firmino Felipe, tenho 18 anos e sou de Nova Odessa - SP. Concluí o ensino médio no SESI, com o curso técnico do SENAI em Desenvolvimento de Sistemas, e agora estou cursando um curso superior de Tecnólogo de Análise e Desenvolvimento de Sitemas no IFSP - Campus Hortolândia. Me apaixonei pela área e estou sempre buscando mais conhecimento para evoluir como profissional.
 
 <p align="left">
     <a href="https://github.com/CaikeHenry007?tab=repositories&sort=stargazers">
