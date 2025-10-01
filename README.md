@@ -113,7 +113,7 @@ Meu nome é Caike Henry Firmino Felipe, tenho 18 anos e sou de Nova Odessa - SP.
     alt="Google Cloud" 
     title="Google Cloud"
     width="57" 
-    src="[https://techstack-generator.vercel.app/prettier-icon.svg](https://cdnl.iconscout.com/lottie/premium/preview-watermark/google-cloud-animated-icon-gif-download-12211573.mp4)" />
+    src="https://cdn.dribbble.com/userupload/24890778/file/original-d6503d19e09a7f7c0ce51e1eddbdc1c2.gif" />
 </td>
 </tr>
 </table>        
