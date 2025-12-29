@@ -25,7 +25,7 @@ Meu nome é Caike Henry Firmino Felipe, tenho 18 anos e sou de Nova Odessa - SP.
 
 ---
 
-### 💻Línguagens e Tecnologias
+### 💻Linguagens e Tecnologias
 
 <table align="center">
 <tr>
