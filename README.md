@@ -66,8 +66,8 @@ Meu nome é Caike Henry Firmino Felipe, tenho 18 anos e sou de Nova Odessa - SP.
 
 <td align="center" width="96" >   
 <img 
-    alt="Git" 
-    title="Git"
+    alt="C++" 
+    title="C++"
     width="57" 
     src="https://techstack-generator.vercel.app/cpp-icon.svg" 
 />
@@ -77,10 +77,10 @@ Meu nome é Caike Henry Firmino Felipe, tenho 18 anos e sou de Nova Odessa - SP.
 <tr>
 <td align="center" width="96" >   
 <img 
-    alt="Git" 
-    title="Git"
+    alt="Java" 
+    title="Java"
     width="57" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://techstack-generator.vercel.app/java-icon.svg" 
 />
 </td>
 
