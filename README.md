@@ -142,6 +142,8 @@ Meu nome é Caike Henry Firmino Felipe, tenho 18 anos e sou de Nova Odessa - SP.
     </td>
   </tr>
 </table>
+<img src="https://raw.githubusercontent.com/CaikeHenry007/CaikeHenry007/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 </div>
 
 
