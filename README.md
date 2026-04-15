@@ -4,7 +4,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é Caike Henry Firmino Felipe, tenho 18 anos e sou de Nova Odessa - SP. Concluí o ensino médio no SESI, com o curso técnico integrado do SENAI em Desenvolvimento de Sistemas, e agora estou cursando um curso superior de Tecnólogo em Análise e Desenvolvimento de Sitemas no IFSP - Campus Hortolândia. Me apaixonei pela área e estou sempre buscando mais conhecimento para evoluir como profissional.
+Meu nome é Caike Henry Firmino Felipe, tenho 19 anos e sou de Nova Odessa - SP. Concluí o ensino médio no SESI, com o curso técnico integrado do SENAI em Desenvolvimento de Sistemas, e agora estou cursando um curso superior de Tecnólogo em Análise e Desenvolvimento de Sitemas no IFSP - Campus Hortolândia. Me apaixonei pela área e estou sempre buscando mais conhecimento para evoluir como profissional.
 
 <p align="left">
     <a href="https://github.com/CaikeHenry007?tab=repositories&sort=stargazers">
@@ -128,14 +128,14 @@ Meu nome é Caike Henry Firmino Felipe, tenho 18 anos e sou de Nova Odessa - SP.
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=CaikeHenry007&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
+        src="https://github-readme-stats.vercel.app/api?username=CaikeHenry007&show_icons=true&theme=algolia" 
         alt="Estatísticas do GitHub" 
         width="450"
       />
     </td>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaikeHenry007&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=4" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaikeHenry007&theme=algolia&layout=compact&custom_title=Tecnologias&langs_count=4" 
         alt="Linguagens mais usadas" 
         width="400"
       />
