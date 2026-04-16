@@ -1,8 +1,7 @@
-# 👨‍💻Caike Henry
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=color=0:00a3ff,50:6B00E6,100:081ccc&text=Caike%20Henry&fontColor=FFFFFF&fontAlignY=35&fontSize=80&desc=Full%20Stack%20Developer&descAlignY=55&reversal=false"/>
+</div>
 
----
-
-**`Desenvolvedor FullStack`**
 
 Meu nome é Caike Henry Firmino Felipe, tenho 19 anos e sou de Nova Odessa - SP. Concluí o ensino médio no SESI, com o curso técnico integrado do SENAI em Desenvolvimento de Sistemas, e agora estou cursando um curso superior de Tecnólogo em Análise e Desenvolvimento de Sitemas no IFSP - Campus Hortolândia. Me apaixonei pela área e estou sempre buscando mais conhecimento para evoluir como profissional.
 
