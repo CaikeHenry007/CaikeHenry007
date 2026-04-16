@@ -5,21 +5,27 @@
 
 Meu nome é **Caike Henry Firmino Felipe**, sou do Brasil e curso **Tecnólogo em Análise e Desenvolvimento de Sistemas** no **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP**; concluí o ensino médio juntamente ao curso **Técnico em Desenvolvimento de Sistemas** pelo **SESI/SENAI**. Sou **full-stack** (interesse em front-end e back-end), apaixonado por programação, com Português nativo e Inglês intermediário. Atualmente procuro oportunidades e projetos como freelancer para aplicar e expandir minhas habilidades.
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/CaikeHenry007?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/CaikeHenry007?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/CaikeHenry007?color=0066ff&style=for-the-badge&labelColor=1155ba&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/CaikeHenry007?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/CaikeHenry007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/CaikeHenry007?color=0066ff&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+  <a href="https://www.linkedin.com/in/caike-henry-firmino-felipe-b49442350" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0066ff" />
+  </a>
+  <a href="mailto:caikehenry12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0066ff" />
+  </a>
 </p>
 
 ---
