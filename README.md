@@ -3,7 +3,7 @@
 </div>
 
 
-Meu nome é Caike Henry Firmino Felipe, tenho 19 anos e sou de Nova Odessa - SP. Concluí o ensino médio no SESI, com o curso técnico integrado do SENAI em Desenvolvimento de Sistemas, e agora estou cursando um curso superior de Tecnólogo em Análise e Desenvolvimento de Sitemas no IFSP - Campus Hortolândia. Me apaixonei pela área e estou sempre buscando mais conhecimento para evoluir como profissional.
+Meu nome é **Caike Henry Firmino Felipe**, sou do Brasil e curso **Tecnólogo em Análise e Desenvolvimento de Sistemas** no **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP**; concluí o ensino médio juntamente ao curso **Técnico em Desenvolvimento de Sistemas** pelo **SESI/SENAI**. Sou **full-stack** (interesse em front-end e back-end), apaixonado por programação, com Português nativo e Inglês intermediário. Atualmente procuro oportunidades e projetos como freelancer para aplicar e expandir minhas habilidades.
 
 <p align="left">
     <a href="https://github.com/CaikeHenry007?tab=repositories&sort=stargazers">
@@ -142,7 +142,9 @@ Meu nome é Caike Henry Firmino Felipe, tenho 19 anos e sou de Nova Odessa - SP.
   </tr>
 </table>
 <img src="https://raw.githubusercontent.com/CaikeHenry007/CaikeHenry007/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=color=0:00a3ff,50:6B00E6,100:081ccc&fontColor=FFFFFF&fontAlignY=35&fontSize=80&descAlignY=55&reversal=false&section=footer"/>
+</div>
 </div>
 
 
